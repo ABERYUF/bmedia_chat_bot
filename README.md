@@ -11,7 +11,6 @@
       justify-content: center;
       position: relative;
     }
-    
     h1{
       background-image: conic-gradient(transparent, green, transparent);
     }
